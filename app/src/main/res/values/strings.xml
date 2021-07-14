@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">UpstoxAssignment</string>
+    <string name="positions">positions</string>
+    <string name="holdings">Holdings</string>
+    <string name="ltp">ltp:</string>
+    <string name="net_qty">Net Qty:</string>
+    <string name="p_amp_l"><![CDATA[P&L]]></string>
+</resources>
